@@ -9,7 +9,7 @@
 ### 🤔 About
 -  **Working :**  Web Development :computer:
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Anime 🎥 | J-Pop :headphones:
+-  **Hobbies :** Anime 🎥 | J-Pop & J-Rock :headphones:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors
